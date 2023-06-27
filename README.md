@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **salazariren043@gmail.com**
 
-- ⚡ Fun fact **I sing,dance,and play instruments**
+- ⚡ Fun fact **I sing, dance, and play instruments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
