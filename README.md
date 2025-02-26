@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **java programming**
 
-- 🌱 I’m currently learning **website porfolio**
+- 🌱 I’m currently learning **website portfolio**
 
 - 👯 I’m looking to collaborate on **python web development**
 
