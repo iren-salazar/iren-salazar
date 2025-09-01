@@ -17,16 +17,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/HelloWorld.JustDontQuit.jv" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="facebook" height="30" width="40" style="fill:#1877F2;" />
 </a>
 <a href="https://www.instagram.com/_x_uraqtdr_x_/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="instagram" height="30" width="40" style="fill:#E4405F;" />
 </a>
 <a href="https://www.youtube.com/@iren-salazar" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="youtube" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="youtube" height="30" width="40" style="fill:#FF0000;" />
 </a>
 <a href="https://www.linkedin.com/in/iren-salazar-209857281/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="linkedin" height="30" width="40" style="fill:#0A66C2;" />
 </a>
 </p>
 
