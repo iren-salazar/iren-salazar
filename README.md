@@ -12,7 +12,7 @@
 - 🤝 I’m looking for help with **Building a Strong Portfolio**
 - 💬 Ask me about **Java Programming**
 - 📫 How to reach me **on gmail: salazariren043@gmail.com**
-- ⚡ Fun fact: **I am an athlete, singer and an enterpreneur**
+- ⚡ Fun fact: **I am a singer and a song writer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
