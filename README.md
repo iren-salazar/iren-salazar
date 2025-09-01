@@ -1,19 +1,19 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi, 👋 I'm Iren Salazar</h1>
-<h3 align="center">UI/UX Designer & Aspiring Full-Stack Developer | Based in the Philippines</h3>
+<h3 align="center">UI/UX Designer & Front-end Developer | Based in the Philippines</h3>
 <img align="left" alt="Coding" width="400" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irenmercadosalazar&label=Profile%20views&color=0e75b6&style=flat" alt="irenmercadosalazar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irenmercadosalazar" alt="irenmercadosalazar" /></a> </p>
 
-- 🔭 I’m currently working on **Java programming**
-- 🌱 I’m currently learning **website portfolio**
-- 👯 I’m looking to collaborate on **Python web development**
-- 🤝 I’m looking for help with **C++ 3n1 gaming application**
-- 💬 Ask me about **C++**
-- 📫 How to reach me **salazariren043@gmail.com**
-- ⚡ Fun fact: **I sing, dance, and play instruments**
+- 🔭 I love working on **Java programming projects**
+- 🌱 I’m currently learning **AI Essentials**
+- 👯 I’m looking to collaborate on **Python Web Development**
+- 🤝 I’m looking for help with **Building a Strong Portfolio**
+- 💬 Ask me about **Java Programming**
+- 📫 How to reach me **on gmail: salazariren043@gmail.com**
+- ⚡ Fun fact: **I am an athlete, singer and an enterpreneur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
