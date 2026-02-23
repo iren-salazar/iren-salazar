@@ -61,18 +61,6 @@
 
 ---
 
-I am a **UX Tech Lead, Project Manager, and Tech Enthusiast** focused on bridging the gap between complex IT infrastructure and human-centric design. 
-
-As a **Student Leader** and builder, my work centers on **AI-driven user experiences**, streamlined project workflows, and fostering digital literacy within the local tech community. I believe that even the most robust backend systems deserve an intuitive, accessible interface.
-
-## 🔐 IT & Tech Lead Initiatives
-
-Below are selected projects where I manage the intersection of technical requirements and user needs.
-
-- **LeadUX Framework** — A project management blueprint for student-led IT initiatives.
-- **Tech-Forward Communities** — Mentorship programs for aspiring designers entering the IT space.
-- **Design Ops** — Optimizing the handoff process between design teams and engineering squads.
-
 ## 🎤 Tech Workshops & Events
 
 A space dedicated to the technical workshops, hackathons, and community events I've organized, hosted, or participated in to drive tech literacy forward.
