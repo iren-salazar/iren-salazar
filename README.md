@@ -135,14 +135,23 @@ I am a passionate **Student Leader** advocating for design thinking in technical
 
 A space dedicated to the technical workshops, hackathons, and community events I've organized, hosted, or participated in to drive tech literacy forward.
 
-| Year / Date | 🖼️ Snapshot | Event Name & Organization | My Role | Topic / Focus Area |
-| :--- | :--- | :--- | :--- | :--- |
-| **Oct 2023** | <img src="https://via.placeholder.com/250x150/1e1e2e/0e75b6?text=Insert+Photo" width="120" alt="Tech Summit"/> | *Example Tech Summit 2023* | 🎙️ Guest Speaker | AI-Driven User Experiences |
-| **Aug 2023** | <img src="https://via.placeholder.com/250x150/1e1e2e/0e75b6?text=Insert+Photo" width="120" alt="Hackathon"/> | *University Dev Hackathon* | 🛠️ Lead Organizer | Frontend Design & Prototyping |
-| **Jun 2023** | <img src="https://via.placeholder.com/250x150/1e1e2e/0e75b6?text=Insert+Photo" width="120" alt="Bootcamp"/> | *UX/UI Bootcamp Series* | 👨‍🏫 Mentor | Intro to Wireframing with Figma |
-| **Mar 2023** | <img src="https://via.placeholder.com/250x150/1e1e2e/0e75b6?text=Insert+Photo" width="120" alt="Leadership Con"/> | *IT Student Leadership Con* | 🤝 Panelist | Leading Tech Teams effectively |
-| **Nov 2022** | <img src="https://via.placeholder.com/250x150/1e1e2e/0e75b6?text=Insert+Photo" width="120" alt="Workshop"/> | *Prompt Engineering 101* | 🗣️ Workshop Lead | LLMs in IT Workflows |
+| Year / Date | Event Name & Organization | My Role | Topic / Focus Area |
+| :--- | :--- | :--- | :--- |
+| **Oct 2023** | *Example Tech Summit 2023* | 🎙️ Guest Speaker | AI-Driven User Experiences |
+| **Aug 2023** | *University Dev Hackathon* | 🛠️ Lead Organizer | Frontend Design & Prototyping |
+| **Jun 2023** | *UX/UI Bootcamp Series* | 👨‍🏫 Mentor | Intro to Wireframing with Figma |
+| **Mar 2023** | *IT Student Leadership Con* | 🤝 Panelist | Leading Tech Teams effectively |
+| **Nov 2022** | *Prompt Engineering 101* | 🗣️ Workshop Lead | LLMs in IT Workflows |
 
+<br>
+
+**📸 Event Gallery**
+<!-- Replace the src links with your actual image links. The width="32%" ensures 3 images fit perfectly in one row! -->
+<p align="center">
+  <img src="https://via.placeholder.com/400x250/1e1e2e/0e75b6?text=Event+Photo+1" width="32%" alt="Event 1" />
+  <img src="https://via.placeholder.com/400x250/1e1e2e/0e75b6?text=Event+Photo+2" width="32%" alt="Event 2" />
+  <img src="https://via.placeholder.com/400x250/1e1e2e/0e75b6?text=Event+Photo+3" width="32%" alt="Event 3" />
+</p>
 
 ---
 
