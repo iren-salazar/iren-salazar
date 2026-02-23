@@ -6,8 +6,12 @@
 </div>
 <br>
 
-<!-- Redesigned Trophy Section -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irenmercadosalazar" alt="irenmercadosalazar" /></a> </p>
+<!-- Redesigned & Fixed Trophy Section -->
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=irenmercadosalazar&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="irenmercadosalazar trophies" />
+  </a> 
+</p>
 <br>
 
 <!-- Left side text, Right side GIF -->
