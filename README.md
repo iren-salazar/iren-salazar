@@ -79,8 +79,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=iren-salazar&style=for-the-badge)
-
 I am a **UX Tech Lead, Project Manager, and Tech Enthusiast** focused on bridging the gap between complex IT infrastructure and human-centric design. 
 
 As a **Student Leader** and builder, my work centers on **AI-driven user experiences**, streamlined project workflows, and fostering digital literacy within the local tech community. I believe that even the most robust backend systems deserve an intuitive, accessible interface.
