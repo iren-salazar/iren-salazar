@@ -59,14 +59,6 @@
   </a>
 </p>
 
-<br> 
-
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irenmercadosalazar&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true" alt="irenmercadosalazar top languages" />
-</p>
-
-<br>
-
 ---
 
 I am a **UX Tech Lead, Project Manager, and Tech Enthusiast** focused on bridging the gap between complex IT infrastructure and human-centric design. 
