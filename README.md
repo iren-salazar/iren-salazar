@@ -1,5 +1,5 @@
 <h1 align="center">Hi, 👋 I'm Iren Salazar</h1>
-<h3 align="center">UI/UX Designer & Front-end Developer | Based in the Philippines</h3>
+<h3 align="center">UI/UX Designer | Prompt Engineer | Project Manager — IT | Based in the Philippines</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=irenmercadosalazar&label=Profile%20views&color=0e75b6&style=flat" alt="irenmercadosalazar" />
@@ -75,7 +75,7 @@
 
 
 
-### UX Designer | Prompt Engineer | Project Manager — IT
+### 
 
 ---
 
