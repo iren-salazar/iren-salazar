@@ -73,36 +73,6 @@ I am a **UX Tech Lead, Project Manager, and Tech Enthusiast** focused on bridgin
 
 As a **Student Leader** and builder, my work centers on **AI-driven user experiences**, streamlined project workflows, and fostering digital literacy within the local tech community. I believe that even the most robust backend systems deserve an intuitive, accessible interface.
 
----
-
-## 🚀 Selected Systems & Platforms
-
-### Digital Product Design & UX
-**User-Centric Design Systems** Developing scalable UI kits and component libraries to ensure consistency across multi-platform applications. Focus on accessibility (WCAG) and rapid prototyping.
-
-**Iterative Product Management** Bridging development and design teams through agile roadmapping, technical documentation, and cross-functional leadership.
-
----
-
-### AI & Prompt Engineering
-- **PromptFlow UX** — Researching how generative AI can enhance the user discovery phase of design.
-- **Workflow Automation** — Implementing LLM-based assistants to streamline IT project reporting and task tracking.
-- **Smart Prototypes** — Interactive high-fidelity designs integrated with AI-generated content for realistic user testing.
-
----
-
-## 🧠 Technical & Creative Focus Areas
-
-- **UX/UI Design:** User Research, Wireframing, Interaction Design.
-- **Project Management:** Agile/Scrum, IT Resource Planning, Risk Assessment.
-- **Prompt Engineering:** LLM Optimization, AI Persona Development, Chain-of-Thought prompting.
-- **Tech Leadership:** Student organizational management and developer-designer advocacy.
-
-**Tools:** Figma, Adobe CC, Jira, Notion  
-**Development:** HTML/CSS, React (Design-side), Markdown  
-
----
-
 ## 🔐 IT & Tech Lead Initiatives
 
 Below are selected projects where I manage the intersection of technical requirements and user needs.
@@ -110,18 +80,6 @@ Below are selected projects where I manage the intersection of technical require
 - **LeadUX Framework** — A project management blueprint for student-led IT initiatives.
 - **Tech-Forward Communities** — Mentorship programs for aspiring designers entering the IT space.
 - **Design Ops** — Optimizing the handoff process between design teams and engineering squads.
-
----
-
-## 🎓 Advocacy & Community Work
-
-I am a passionate **Student Leader** advocating for design thinking in technical education and empowering the next generation of Filipino IT professionals.
-
-- **Student Tech Leadership** — Organizing local hackathons and design sprints.
-- **UX Workshops** — Teaching non-designers the fundamentals of user empathy and interface logic.
-- **Community Building** — Leading initiatives that bridge the gap between academia and the IT industry.
-
----
 
 ## 🎤 Tech Workshops & Events
 
@@ -156,28 +114,3 @@ A space dedicated to the technical workshops, hackathons, and community events I
 
 ---
 
-## What I’m Building Toward
-
-I’m focused on a future where:
-
-- **Technology is invisible** and the experience is seamless.
-- **AI serves as a co-creator**, not a replacement for human empathy.
-- **IT Project Management** is rooted in user-first principles.
-- **Student Leaders** are equipped with the technical and soft skills to lead global teams.
-
----
-
-## Design & Management Philosophy
-
-- **Empathy First:** We build for people, not for servers.
-- **Process Clarity:** Transparent documentation leads to faster deployment.
-- **Iterate or Die:** Constant feedback loops are the heart of great products.
-- **AI-Augmented:** Leverage AI to automate the mundane and focus on the meaningful.
-
----
-
-## Professional Role
-
-**UX Tech Lead & IT Project Manager**
-
-Leading cross-functional teams to deliver high-impact digital solutions through structured project management and design excellence.
