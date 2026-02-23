@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irenmercadosalazar" alt="irenmercadosalazar" /></a> </p>
 
-- 🔭 I love working on **Java programming projects**
-- 🌱 I’m currently learning **AI Essentials**
+- 🔭 I love working on **Javascript programming projects**
+- 🌱 I’m currently learning **Project Management**
 - 👯 I’m looking to collaborate on **Python Web Development**
-- 🤝 I’m looking for help with **Building a Strong Portfolio**
+- 🤝 I’m looking for help with **Building a StartUp!**
 - 💬 Ask me about **Java Programming**
 - 📫 How to reach me **on gmail: salazariren043@gmail.com**
-- ⚡ Fun fact: **I am a singer and a song writer**
+- ⚡ Fun fact: **I love singing and a song writing and I'm addicted to Sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/HelloWorld.JustDontQuit.jv" target="_blank">
+<a href="https://www.facebook.com/StartsAtZero" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="facebook" height="30" width="40" style="fill:#1877F2;" />
 </a>
 <a href="https://www.instagram.com/_x_uraqtdr_x_/" target="_blank">
@@ -64,7 +64,7 @@
 
 <h3 align="left">My Portfolio:</h3>
 <p align="left">
-    <a href="portfolio.html" target="_blank">View My Portfolio</a>
+    <a href="https://sites.google.com/view/iren-salazar/home" target="_blank">View My Portfolio</a>
 </p>
 
 <p> <br><br> 
