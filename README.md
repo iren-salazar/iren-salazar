@@ -8,7 +8,7 @@
 
 <!-- Redesigned & Fixed Trophy Section -->
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy.git">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=irenmercadosalazar&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="irenmercadosalazar trophies" />
   </a> 
 </p>
@@ -70,6 +70,5 @@
 <br> 
 
 <p align="left"> 
-  <!-- Optional Tip: I added '&bg_color=00000000&hide_border=true' here so your language stats card also looks flawless in dark/light mode! -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irenmercadosalazar&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true" alt="irenmercadosalazar top languages" />
 </p>
