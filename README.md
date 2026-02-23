@@ -74,7 +74,6 @@
 </p>
 
 
-# Iren Salazar
 
 ### UX Designer | Prompt Engineer | Project Manager — IT
 
