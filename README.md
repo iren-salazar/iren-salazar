@@ -6,11 +6,13 @@
 </div>
 <br>
 
+<!-- Redesigned Trophy Section -->
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=irenmercadosalazar" alt="irenmercadosalazar" />
+    <img src="https://github-profile-trophy.vercel.app/?username=irenmercadosalazar&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="irenmercadosalazar trophies" />
   </a> 
 </p>
+<br>
 
 <!-- Left side text, Right side GIF -->
 <img align="right" alt="Coding" width="350" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
@@ -68,5 +70,6 @@
 <br> 
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irenmercadosalazar&show_icons=true&locale=en&layout=compact" alt="irenmercadosalazar top languages" />
+  <!-- Optional Tip: I added '&bg_color=00000000&hide_border=true' here so your language stats card also looks flawless in dark/light mode! -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irenmercadosalazar&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true" alt="irenmercadosalazar top languages" />
 </p>
