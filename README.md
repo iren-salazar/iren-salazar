@@ -167,11 +167,3 @@ I’m focused on a future where:
 **UX Tech Lead & IT Project Manager**
 
 Leading cross-functional teams to deliver high-impact digital solutions through structured project management and design excellence.
-
----
-
-## 🌐 Find Me
-
-- **LinkedIn:** [linkedin.com/in/iren-salazar](#)
-- **Portfolio:** [your-portfolio-link.com](#)
-- **Email:** your.email@example.com
