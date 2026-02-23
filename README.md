@@ -6,7 +6,11 @@
 </div>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisekp&" alt="abhisekp" /></p>
+JavaScript   4 hrs 30 mins   ████████████░░░░░░░░░   21.2%
+Python       6 hrs 15 mins   ██████░░░░░░░░░░░░░░░  20.6%
+TypeScript   7 hrs 20 mins   ████░░░░░░░░░░░░░░░░░  28.7%
+Java         2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░   9.9%
+Django       1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░   6.6%
 
 <!-- Left side text, Right side GIF -->
 <img align="right" alt="Coding" width="350" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
