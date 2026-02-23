@@ -7,11 +7,7 @@
 <br>
 
 <!-- Redesigned Trophy Section -->
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=irenmercadosalazar&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="irenmercadosalazar trophies" />
-  </a> 
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irenmercadosalazar" alt="irenmercadosalazar" /></a> </p>
 <br>
 
 <!-- Left side text, Right side GIF -->
