@@ -143,7 +143,6 @@ A space dedicated to the technical workshops, hackathons, and community events I
 | **Mar 2023** | *IT Student Leadership Con* | 🤝 Panelist | Leading Tech Teams effectively |
 | **Nov 2022** | *Prompt Engineering 101* | 🗣️ Workshop Lead | LLMs in IT Workflows |
 
-*(Note: Feel free to edit the table rows above with your actual event details!)*
 
 ---
 
