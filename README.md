@@ -83,14 +83,3 @@ A space dedicated to the technical workshops, hackathons, and community events I
   <img src="https://via.placeholder.com/400x250/1e1e2e/0e75b6?text=Event+Photo+3" width="32%" alt="Event 3" />
 </p>
 
----
-
-## ✍️ Thought Leadership & Research
-
-- [The Role of Prompt Engineering in Modern UX Workflows](#)
-- [Design Thinking for IT Project Managers](#)
-- [Building Accessible Digital Spaces in the Philippines](#)
-- [Managing Remote Student Tech Teams: A Playbook](#)
-
----
-
