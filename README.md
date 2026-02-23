@@ -79,7 +79,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=iren-salazar&style=for-the-badge)
 
 I am a **UX Tech Lead, Project Manager, and Tech Enthusiast** focused on bridging the gap between complex IT infrastructure and human-centric design. 
 
