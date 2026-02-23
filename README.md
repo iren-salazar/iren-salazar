@@ -73,9 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irenmercadosalazar&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true" alt="irenmercadosalazar top languages" />
 </p>
 
-
-
-### 
+<br>
 
 ---
 
@@ -130,6 +128,22 @@ I am a passionate **Student Leader** advocating for design thinking in technical
 - **Student Tech Leadership** — Organizing local hackathons and design sprints.
 - **UX Workshops** — Teaching non-designers the fundamentals of user empathy and interface logic.
 - **Community Building** — Leading initiatives that bridge the gap between academia and the IT industry.
+
+---
+
+## 🎤 Tech Workshops & Events
+
+A space dedicated to the technical workshops, hackathons, and community events I've organized, hosted, or participated in to drive tech literacy forward.
+
+| Year / Date | Event Name & Organization | My Role | Topic / Focus Area |
+| :--- | :--- | :--- | :--- |
+| **Oct 2023** | *Example Tech Summit 2023* | 🎙️ Guest Speaker | AI-Driven User Experiences |
+| **Aug 2023** | *University Dev Hackathon* | 🛠️ Lead Organizer | Frontend Design & Prototyping |
+| **Jun 2023** | *UX/UI Bootcamp Series* | 👨‍🏫 Mentor | Intro to Wireframing with Figma |
+| **Mar 2023** | *IT Student Leadership Con* | 🤝 Panelist | Leading Tech Teams effectively |
+| **Nov 2022** | *Prompt Engineering 101* | 🗣️ Workshop Lead | LLMs in IT Workflows |
+
+*(Note: Feel free to edit the table rows above with your actual event details!)*
 
 ---
 
