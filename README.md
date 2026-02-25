@@ -86,10 +86,7 @@
   
   <br>
   
-  <!-- Side-by-Side Stats Cards (Minimal & Transparent) -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irenmercadosalazar&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777777" alt="Top Languages" height="180em"/>  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=irenmercadosalazar&theme=transparent&hide_border=true&show_icons=true&locale=en&title_color=0e75b6&icon_color=0e75b6&text_color=777777" alt="Github Stats" height="180em"/>  
-</div>
+  
 
 <br>
 <hr>
