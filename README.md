@@ -1,7 +1,4 @@
 <div align="center">
-  <!-- Header Banner / Image (Optional: You can replace this src with your own aesthetic banner) -->
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/e6e23115-0a2b-4a5c-abdc-08456d9449de" alt="intro banner" width="100%" style="border-radius: 15px; margin-bottom: 20px;">
-
   <h1>Hi there, 👋 I'm Iren Salazar</h1>
 
   <!-- NBlancs Style: Animated Typing SVG -->
