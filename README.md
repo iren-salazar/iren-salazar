@@ -94,9 +94,9 @@
 
 **📸 Event Gallery**
 <p align="center">
-  <img src="https://via.placeholder.com/400x250/1e1e2e/0e75b6?text=Event+Photo+1" width="32%" alt="Event 1" />
-  <img src="https://via.placeholder.com/400x250/1e1e2e/0e75b6?text=Event+Photo+2" width="32%" alt="Event 2" />
-  <img src="https://via.placeholder.com/400x250/1e1e2e/0e75b6?text=Event+Photo+3" width="32%" alt="Event 3" />
+  <img src="devfest-2025.jpg" width="32%" alt="Event 1" />
+  <img src="women-in-tech-2025.jpg" width="32%" alt="Event 2" />
+  <img src="devcon-cdo-2025.jpg" width="32%" alt="Event 3" />
 </p>
 
 <br>
