@@ -68,7 +68,7 @@
 - 🤝 I’m looking for help with **Building a StartUp!**
 - 💬 Ask me about **Java Programming**
 - 📫 Reach out to me: [**salazariren043@gmail.com**](mailto:salazariren043@gmail.com)
-- ⚡ Fun fact: **I love singing, songwriting, and I'm addicted to Sports!** 🎤🏀
+- ⚡ Fun fact: **I love singing, songwriting, and I'm addicted to Sports!** 
 
 <br clear="both">
 <br>
