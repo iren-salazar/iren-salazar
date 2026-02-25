@@ -1,14 +1,14 @@
 <div align="center">
   <h1>Hi there, 👋 I'm Iren Salazar</h1>
 
-  <!-- NBlancs Style: Animated Typing SVG -->
+  <!--Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Prompt+Engineer;Project+Manager+%E2%80%94+IT;Based+in+the+Philippines" alt="Typing SVG" />
   </a>
 
   <br>
 
-  <!-- NBlancs Style: GitHub Trophies -->
+  <!--GitHub Trophies -->
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=irenmercadosalazar&row=1&column=6&theme=transparent&no-frame=true&no-bg=true&margin-w=15" alt="Iren's Trophies" />
