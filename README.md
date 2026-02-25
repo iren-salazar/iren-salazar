@@ -92,20 +92,6 @@
 <hr>
 <br>
 
-### 🎤 Tech Workshops & Events
-
-A space dedicated to the technical workshops, hackathons, and community events I've organized, hosted, or participated in to drive tech literacy forward.
-
-| Year / Date | Event Name & Organization | My Role | Topic / Focus Area |
-| :--- | :--- | :--- | :--- |
-| **Jul 2025** | *Django Girls CDO 2025* | 🎙️ Active Participant | Impactful Hands-On Workshop |
-| **Aug 2023** | *University Dev Hackathon* | 🛠️ Team Lead | Frontend Design & Prototyping |
-| **Jun 2023** | *UX/UI Bootcamp Series* | 👨‍🏫 Mentor | Intro to Wireframing with Figma |
-| **Mar 2023** | *IT Student Leadership Con* | 🤝 Panelist | Leading Tech Teams effectively |
-| **Nov 2022** | *Copilot CDO: AI-Powered Coding* | 🗣️ Technical Lead | LLMs in IT Workflows |
-
-<br>
-
 **📸 Event Gallery**
 <p align="center">
   <img src="https://via.placeholder.com/400x250/1e1e2e/0e75b6?text=Event+Photo+1" width="32%" alt="Event 1" />
