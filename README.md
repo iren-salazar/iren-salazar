@@ -96,7 +96,7 @@
 <p align="center">
   <img src="devfest-2025.jpg" width="32%" alt="Event 1" />
   <img src="women-in-tech-2025.jpg" width="32%" alt="Event 2" />
-  <img src="devcon-cdo-2025.jpg" width="32%" alt="Event 3" />
+  <img src="sinatch-2024.jpg" width="32%" alt="Event 3" />
 </p>
 
 <br>
