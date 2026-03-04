@@ -75,23 +75,6 @@
 <hr>
 <br>
 
-<!-- NBlancs Style: GitHub Stats & Activity Section -->
-<div align="center">
-  <h3>📊 GitHub Analytics</h3>
-</div>
-
-<div align="center">
-  <!-- Activity Graph (Customized with your blue theme) -->
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=irenmercadosalazar&theme=transparent&hide_border=true&line=0e75b6&point=ffffff&bg_color=transparent" alt="Activity Graph" style="margin-bottom: 15px;"/>
-  
-  <br>
-  
-  
-
-<br>
-<hr>
-<br>
-
 ### 🎤 Tech Workshops & Events
 
 A space dedicated to the technical workshops, hackathons, and community events I've organized, hosted, or participated in to drive tech literacy forward.
