@@ -8,7 +8,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffd803&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Web+Developer;IT+Support+Specialist;" alt="Typing SVG" />
   </a>
-    <hr1></h1>
+  <hr1></h1>
+  
   <!-- Centered Socials & Portfolio -->
   <p>
     <a href="https://sites.google.com/view/iren-salazar/home" target="_blank"><img src="https://img.shields.io/badge/View_My_UX_Portfolio-34495E?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio"/></a>
@@ -19,6 +20,7 @@
   </p>
     <br>
   </h1>
+  
   <!-- Centered Tech Stack Icons -->
   <h3>🛠️ Languages and Tools</h3>
   <p> 
@@ -47,10 +49,10 @@
   </p>
 </div>
 
+<!-- A Little About Me -->
 <br>
 <h2></h2>
 <h3>👩‍💻 A Little About Me</h3>
-
 <img align="right" alt="Coding" width="350" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
 
 - 🔭 I love working on **Javascript programming projects**
@@ -61,6 +63,7 @@
 - 📫 Reach out to me: [**salazariren043@gmail.com**](mailto:salazariren043@gmail.com)
 - ⚡ Fun fact: **I love singing, songwriting, and I'm addicted to Sports!**
 <br>
+
 <!-- Footer / Support Section -->
 <div align="left">
   <h3>☕ Support My Work</h3>
@@ -75,6 +78,7 @@
 </div>
 <br>
 <h2></h2>
+
 <!-- Tech Workshops & Events -->
 <h3>🎤 Tech Workshops & Events</h3>
 <p>
@@ -89,6 +93,7 @@ A space dedicated to the technical workshops, hackathons, and community events I
 | **Aug 2025** | *Django Girls CDO 2025* | 🎙️ Active Participant | Impactful Hands-On Workshop |
 | **Mar 2025** | *Copilot CDO: AI-Powered Coding* | 🗣️ Technical Lead | LLMs in IT Workflows |
 
+<!-- Event Gallery -->
 <br>
 <h2></h2>
 <h3>📸 Event Gallery</h3>
