@@ -55,10 +55,10 @@
 </div>
 
 <br>
-<hr>
+<hr></h1>
 <br>
 
-### 👩‍💻 A Little About Me
+👩‍💻 A Little About Me
 
 <img align="right" alt="Coding" width="350" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
 
@@ -75,7 +75,7 @@
 <hr>
 <br>
 
-### 🎤 Tech Workshops & Events
+🎤 Tech Workshops & Events
 
 A space dedicated to the technical workshops, hackathons, and community events I've organized, hosted, or participated in to drive tech literacy forward.
 
@@ -89,7 +89,7 @@ A space dedicated to the technical workshops, hackathons, and community events I
 
 <br>
 
-**📸 Event Gallery**
+📸 Event Gallery
 <p align="center">
   <img src="devfest-2025.jpg" width="32%" alt="Event 1" />
   <img src="women-in-tech-2025.jpg" width="32%" alt="Event 2" />
