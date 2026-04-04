@@ -3,7 +3,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=irenmercadosalazar&label=Profile%20views&color=0e75b6&style=flat" alt="irenmercadosalazar views" />
   </p>
-  <!-- Name -->
+  <!-- Greetings & Name -->
   <h1>Hi there, 👋 I'm Iren Salazar
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f9bc60&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Web+Developer;IT+Support+Specialist;" alt="Typing SVG" />
@@ -19,11 +19,8 @@
   </p>
     <br>
   </h1>
-
-
   <!-- Centered Tech Stack Icons -->
   <h3>🛠️ Languages and Tools</h3>
-
   <p> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> &nbsp;
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> &nbsp;
@@ -50,9 +47,9 @@
   </p>
 </div>
 
-
-<h1></h1>
-
+<br>
+<h2></h2>
+<br>
 
 👩‍💻 A Little About Me
 
@@ -68,13 +65,14 @@
 
 <br clear="both">
 <br>
-<hr1></h1>
+<h2></h2>
 <br>
-
 🎤 Tech Workshops & Events
-
+<br><br>
+<p>
 A space dedicated to the technical workshops, hackathons, and community events I've organized, hosted, or participated in to drive tech literacy forward.
-
+<p>
+  
 | Year / Date | Event Name & Organization | My Role | Topic / Focus Area |
 | :--- | :--- | :--- | :--- |
 | **Jul 2025** | *University SINATECH Pitching* | 🛠️ Team Lead | Frontend Design & Prototyping |
@@ -84,10 +82,11 @@ A space dedicated to the technical workshops, hackathons, and community events I
 | **Mar 2025** | *Copilot CDO: AI-Powered Coding* | 🗣️ Technical Lead | LLMs in IT Workflows |
 
 <br>
-
-<hr1></h1>
+<h2></h2>
+<br>
 
 📸 Event Gallery
+<br>
 <p align="center">
   <img src="devfest-2025.jpg" width="32%" alt="Event 1" />
   <img src="women-in-tech-2025.jpg" width="32%" alt="Event 2" />
@@ -98,6 +97,7 @@ A space dedicated to the technical workshops, hackathons, and community events I
 <br>
 <hr1></h1>
 <br>
+
 <!-- Contribution Graph -->
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=iren-salazar&theme=tokyo-night&hide_border=true&bg_color=272343&area=true" />
