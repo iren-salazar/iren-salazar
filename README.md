@@ -61,10 +61,21 @@
 - 🤝 I’m looking for help with **Building a StartUp!**
 - 💬 Ask me about **Java Programming**
 - 📫 Reach out to me: [**salazariren043@gmail.com**](mailto:salazariren043@gmail.com)
-- ⚡ Fun fact: **I love singing, songwriting, and I'm addicted to Sports!** 
-
-<br clear="both">
+- ⚡ Fun fact: **I love singing, songwriting, and I'm addicted to Sports!**
 <br>
+<!-- Footer / Support Section -->
+<div align="left">
+  <h3>☕ Support My Work</h3>
+  <p>
+    <a href="https://www.buymeacoffee.com/irenie" target="_blank"> 
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+    </a>
+    <a href="https://ko-fi.com/irenie" target="_blank"> 
+      <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Ko-Fi" />
+    </a>
+  </p>
+</div>
+
 <h2></h2>
 <br>
 🎤 Tech Workshops & Events
@@ -94,25 +105,11 @@ A space dedicated to the technical workshops, hackathons, and community events I
   <img src="Django-Girls-CDO- 2025.jpg" width="32%" alt="Event 4" />
 </p>
 
+<br clear="both">
 <br>
 <hr1></h1>
 <br>
-
 <!-- Contribution Graph -->
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=iren-salazar&theme=tokyo-night&hide_border=true&bg_color=272343&area=true" />
-  <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nblancs&theme=transparent" alt="Streak Stats" height="180em"/> -->
-</div>
-
-<!-- Centered Footer / Support Section -->
-<div align="center">
-  <h3>☕ Support My Work</h3>
-  <p>
-    <a href="https://www.buymeacoffee.com/irenie" target="_blank"> 
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
-    </a>
-    <a href="https://ko-fi.com/irenie" target="_blank"> 
-      <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Ko-Fi" />
-    </a>
-  </p>
 </div>
