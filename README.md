@@ -51,7 +51,7 @@
 <h2></h2>
 <br>
 
-👩‍💻 A Little About Me
+<h3>👩‍💻 A Little About Me</h3>
 
 <img align="right" alt="Coding" width="350" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
 
@@ -78,8 +78,8 @@
 
 <h2></h2>
 <br>
-🎤 Tech Workshops & Events
-<br><br>
+<h3>🎤 Tech Workshops & Events</h3>
+<br>
 <p>
 A space dedicated to the technical workshops, hackathons, and community events I've organized, hosted, or participated in to drive tech literacy forward.
 <p>
@@ -96,7 +96,7 @@ A space dedicated to the technical workshops, hackathons, and community events I
 <h2></h2>
 <br>
 
-📸 Event Gallery
+<h3>📸 Event Gallery</h3>
 <br>
 <p align="center">
   <img src="devfest-2025.jpg" width="32%" alt="Event 1" />
