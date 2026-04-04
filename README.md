@@ -6,7 +6,7 @@
   <!-- Greetings & Name -->
   <h1>Hi there, 👋 I'm Iren Salazar
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f9bc60&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Web+Developer;IT+Support+Specialist;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffd803&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Web+Developer;IT+Support+Specialist;" alt="Typing SVG" />
   </a>
     <hr1></h1>
   <!-- Centered Socials & Portfolio -->
