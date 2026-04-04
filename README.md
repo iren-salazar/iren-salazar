@@ -68,10 +68,9 @@
 
 <br clear="both">
 <br>
-<hr>
+<hr1></h1>
 <br>
 
-<hr1></h1>
 🎤 Tech Workshops & Events
 
 A space dedicated to the technical workshops, hackathons, and community events I've organized, hosted, or participated in to drive tech literacy forward.
@@ -97,7 +96,7 @@ A space dedicated to the technical workshops, hackathons, and community events I
 </p>
 
 <br>
-<hr>
+<hr1></h1>
 <br>
 
 <div align="center">
