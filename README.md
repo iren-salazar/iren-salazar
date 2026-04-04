@@ -49,8 +49,6 @@
 
 <br>
 <h2></h2>
-<br>
-
 <h3>👩‍💻 A Little About Me</h3>
 
 <img align="right" alt="Coding" width="350" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
@@ -76,9 +74,8 @@
     </a>
   </p>
 </div>
-
-<h2></h2>
 <br>
+<h2></h2>
 <h3>🎤 Tech Workshops & Events</h3>
 <p>
 A space dedicated to the technical workshops, hackathons, and community events I've organized, hosted, or participated in to drive tech literacy forward.
@@ -94,8 +91,6 @@ A space dedicated to the technical workshops, hackathons, and community events I
 
 <br>
 <h2></h2>
-<br>
-
 <h3>📸 Event Gallery</h3>
 <br>
 <p align="center">
@@ -104,11 +99,12 @@ A space dedicated to the technical workshops, hackathons, and community events I
   <img src="sinatech-2024.jpg" width="32%" alt="Event 3" />
   <img src="Django-Girls-CDO- 2025.jpg" width="32%" alt="Event 4" />
 </p>
-
-<br clear="both">
-<h2></h2>
 <br>
-<!-- Contribution Graph -->
+
+<!-- Contribution Graph 
+<h2></h2>
+<br clear="both">
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=iren-salazar&theme=tokyo-night&hide_border=true&bg_color=272343&area=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=iren-salazar&theme=tokyo-night&hide_border=true&bg_color=242629&area=true" />
 </div>
+-->
