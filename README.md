@@ -87,10 +87,9 @@ A space dedicated to the technical workshops, hackathons, and community events I
   
 | Year / Date | Event Name & Organization | My Role | Topic / Focus Area |
 | :--- | :--- | :--- | :--- |
-| **Jul 2025** | *University SINATECH Pitching* | 🛠️ Team Lead | Frontend Design & Prototyping |
-| **Jan 2024** | *Django Girls CDO* | 🗣️ Active Participant | Back-End Development |
-| **Mar 2025** | *DevFest 2025* | 🤝 Active Participant  | Chatbot & AI Tech Workshops |
-| **Aug 2025** | *Django Girls CDO 2025* | 🎙️ Active Participant | Impactful Hands-On Workshop |
+| **Jul 2025** | *University SINATECH Pitching* | 🛠️ Team Lead | Frontend Development & UX Design |
+| **Aug 2025** | *Django Girls CDO 2025* | 🗣️ Active Participant | Back-End Development |
+| **Mar 2025** | *DevFest 2025* | 🤝 Active Participant  | Build AI Chatbot & Build a PC|
 | **Mar 2025** | *Copilot CDO: AI-Powered Coding* | 🗣️ Technical Lead | LLMs in IT Workflows |
 
 <!-- Event Gallery -->
