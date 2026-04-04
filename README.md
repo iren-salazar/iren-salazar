@@ -102,7 +102,7 @@ A space dedicated to the technical workshops, hackathons, and community events I
   <img src="devfest-2025.jpg" width="32%" alt="Event 1" />
   <img src="women-in-tech-2025.jpg" width="32%" alt="Event 2" />
   <img src="sinatech-2024.jpg" width="32%" alt="Event 3" />
-  <img src="Django-Girls-CDO- 2025.jpg" width="32%" alt="Event 4" />
+  <img src="django-girls-cdo-2025.jpg" width="32%" alt="Event 4" />
 </p>
 <br>
 
