@@ -84,7 +84,7 @@
 <p>
 A space dedicated to the technical workshops, hackathons, and community events I've organized or participated in to drive tech literacy forward.
 <p>
-<h2>
+<h4>
   
 | Year / Date | Event Name & Organization | My Role | Topic / Focus Area |
 | :--- | :--- | :--- | :--- |
@@ -93,7 +93,7 @@ A space dedicated to the technical workshops, hackathons, and community events I
 | **Mar 2025** | *DevFest 2025* | 🤝 Active Participant  | Build AI Chatbot & Build a PC|
 | **Mar 2025** | *Copilot CDO: AI-Powered Coding* | 🗣️ Technical Lead | LLMs in IT Workflows |
 
-</h2>
+</h4>
 <!-- Event Gallery -->
 <br>
 <h2></h2>
