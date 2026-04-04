@@ -64,7 +64,6 @@
 <!-- Footer / Support Section -->
 <div align="left">
   <h3>☕ Support My Work</h3>
-  <br>
   <p>
     <a href="https://www.buymeacoffee.com/irenie" target="_blank"> 
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
@@ -76,6 +75,7 @@
 </div>
 <br>
 <h2></h2>
+<!-- Tech Workshops & Events -->
 <h3>🎤 Tech Workshops & Events</h3>
 <p>
 A space dedicated to the technical workshops, hackathons, and community events I've organized, hosted, or participated in to drive tech literacy forward.
