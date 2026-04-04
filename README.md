@@ -1,10 +1,12 @@
 <div align="center">
-  <h1>Hi there, 👋 I'm Iren Salazar</h1>
-
-  <!--Animated Typing SVG -->
+  <h1>Hi there, 👋 I'm Iren Salazar
+    <!--Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Web+Developer;IT+Support+Specialist;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=b8c1ec&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Web+Developer;IT+Support+Specialist;" alt="Typing SVG" />
   </a>
+  </h1>
+
+  
 
   <br>
 
@@ -12,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=irenmercadosalazar&label=Profile%20views&color=0e75b6&style=flat" alt="irenmercadosalazar views" />
   </p>
 
-  <br>
+  
 
   <!-- Centered Socials & Portfolio -->
   <p>
@@ -55,7 +57,7 @@
 </div>
 
 <br>
-<hr></h1>
+<h1></h1>
 <br>
 
 👩‍💻 A Little About Me
