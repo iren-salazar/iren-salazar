@@ -106,8 +106,7 @@ A space dedicated to the technical workshops, hackathons, and community events I
 </p>
 
 <br clear="both">
-<br>
-<hr1></h1>
+<h2></h2>
 <br>
 <!-- Contribution Graph -->
 <div align="center">
