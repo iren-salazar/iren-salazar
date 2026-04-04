@@ -1,21 +1,14 @@
 <div align="center">
-  <h1>Hi there, 👋 I'm Iren Salazar
-    <!--Animated Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=b8c1ec&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Web+Developer;IT+Support+Specialist;" alt="Typing SVG" />
-  </a>
-  </h1>
-
-  
-
-  <br>
-
+<!-- Profile Views -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=irenmercadosalazar&label=Profile%20views&color=0e75b6&style=flat" alt="irenmercadosalazar views" />
   </p>
-
-  
-
+  <!-- Name -->
+  <h1>Hi there, 👋 I'm Iren Salazar
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=f9bc60&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Web+Developer;IT+Support+Specialist;" alt="Typing SVG" />
+  </a>
+    <hr1></h1>
   <!-- Centered Socials & Portfolio -->
   <p>
     <a href="https://sites.google.com/view/iren-salazar/home" target="_blank"><img src="https://img.shields.io/badge/View_My_UX_Portfolio-34495E?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio"/></a>
@@ -24,8 +17,9 @@
     <a href="https://www.instagram.com/_x_uraqtdr_x_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
     <a href="https://www.youtube.com/@iren-salazar" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   </p>
+    <br>
+  </h1>
 
-  <br>
 
   <!-- Centered Tech Stack Icons -->
   <h3>🛠️ Languages and Tools</h3>
@@ -77,6 +71,7 @@
 <hr>
 <br>
 
+<hr1></h1>
 🎤 Tech Workshops & Events
 
 A space dedicated to the technical workshops, hackathons, and community events I've organized, hosted, or participated in to drive tech literacy forward.
@@ -90,6 +85,8 @@ A space dedicated to the technical workshops, hackathons, and community events I
 | **Mar 2025** | *Copilot CDO: AI-Powered Coding* | 🗣️ Technical Lead | LLMs in IT Workflows |
 
 <br>
+
+<hr1></h1>
 
 📸 Event Gallery
 <p align="center">
