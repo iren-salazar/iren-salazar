@@ -7,7 +7,7 @@
 
 <!-- Name & Animated Title -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=ffd803&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Iren+Salazar+%F0%9F%91%8B;UI%2FUX+Designer+%E2%9C%A6;Web+Developer+%E2%9A%A1;IT+Support+Specialist+%F0%9F%9B%A0%EF%B8%8F;Coffee-Fueled+Builder+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=ffd803&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Iren+Salazar+%F0%9F%91%8B;UI%2FUX+Designer+%E2%9C%A6;Web+Developer+%E2%9A%A1;IT+Support+Specialist+%F0%9F%9B%A0%EF%B8%8F;Tea-Fueled+Builder+%E2%98%95" alt="Typing SVG" />
 </h1>
 
 <p><em>Designing interfaces people love. Building things that actually work.</em></p>
