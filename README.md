@@ -1,116 +1,156 @@
 <div align="center">
-<!-- Profile Views -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=irenmercadosalazar&label=Profile%20views&color=0e75b6&style=flat" alt="irenmercadosalazar views" />
-  </p>
-  <!-- Greetings & Name -->
-  <h1>Hi there, 👋 I'm Iren Salazar
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffd803&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Web+Developer;IT+Support+Specialist;" alt="Typing SVG" />
-  </a>
-  <hr1></h1>
-  
-  <!-- Centered Socials & Portfolio -->
-  <p>
-    <a href="https://sites.google.com/view/iren-salazar/home" target="_blank"><img src="https://img.shields.io/badge/View_My_UX_Portfolio-34495E?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://www.linkedin.com/in/iren-salazar-209857281/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.facebook.com/StartsAtZero" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-    <a href="https://www.instagram.com/_x_uraqtdr_x_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://www.youtube.com/@iren-salazar" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  </p>
-    <br>
-  </h1>
-  
-  <!-- Centered Tech Stack Icons -->
-  <h3>🛠️ Languages and Tools</h3>
-  <p> 
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> &nbsp;
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> &nbsp;
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> &nbsp;
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> &nbsp;
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp;
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp;
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> &nbsp;
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  </p>
+
+<!-- Profile View Counter -->
+<img src="https://komarev.com/ghpvc/?username=irenmercadosalazar&label=profile+views&color=ffd803&style=flat-square" />
+
+<br/><br/>
+
+<!-- Name & Animated Title -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=ffd803&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Iren+Salazar+%F0%9F%91%8B;UI%2FUX+Designer+%E2%9C%A6;Web+Developer+%E2%9A%A1;IT+Support+Specialist+%F0%9F%9B%A0%EF%B8%8F;Coffee-Fueled+Builder+%E2%98%95" alt="Typing SVG" />
+</h1>
+
+<p><em>Designing interfaces people love. Building things that actually work.</em></p>
+
+<br/>
+
+<!-- Social Badges -->
+<a href="https://sites.google.com/view/iren-salazar/home" target="_blank">
+  <img src="https://img.shields.io/badge/✦_Portfolio-000000?style=for-the-badge&logoColor=ffd803" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/iren-salazar-209857281/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.facebook.com/StartsAtZero" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.instagram.com/_x_uraqtdr_x_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.youtube.com/@iren-salazar" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
 </div>
 
-<!-- A Little About Me -->
-<br>
-<h2></h2>
-<h3>👩‍💻 A Little About Me</h3>
-<img align="right" alt="Coding" width="350" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
+---
 
-- 🔭 I love working on **Javascript programming projects**
-- 🌱 I’m currently learning **Project Management**
-- 👯 I’m looking to collaborate on **Python Web Development**
-- 🤝 I’m looking for help with **Building a StartUp!**
-- 💬 Ask me about **Java Programming**
-- 📫 Reach out to me: [**salazariren043@gmail.com**](mailto:salazariren043@gmail.com)
-- ⚡ Fun fact: **I love singing, songwriting, and I'm addicted to Sports!**
-<br>
+## `$ whoami`
 
-<!-- Footer / Support Section -->
-<div align="left">
-  <h3>☕ Support My Work</h3>
-  <p>
-    <a href="https://www.buymeacoffee.com/irenie" target="_blank"> 
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
-    </a>
-    <a href="https://ko-fi.com/irenie" target="_blank"> 
-      <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="Ko-Fi" />
-    </a>
-  </p>
-</div>
-<br>
-<h2></h2>
+```yaml
+name:       Iren Salazar
+location:   Cagayan de Oro, Philippines 🇵🇭
+roles:      [ UI/UX Designer, Web Developer, IT Support Specialist ]
+building:   A startup 🚀
+learning:   Project Management
+seeking:    Python Web Dev collaborators
+passions:   [ JavaScript, Java, Singing, Songwriting, Sports ]
+contact:    salazariren043@gmail.com
+```
 
-<!-- Tech Workshops & Events -->
-<h3>🎤 Tech Workshops & Events</h3>
-<p>
-A space dedicated to the technical workshops, hackathons, and community events I've organized or participated in to drive tech literacy forward.
-<p>
-<h4>
-  
-| Year / Date | Event Name & Organization | My Role | Topic / Focus Area |
-| :--- | :--- | :--- | :--- |
-| **Jul 2025** | *University SINATECH Pitching* | 🛠️ Team Lead | Frontend Development & UX Design |
-| **Aug 2025** | *Django Girls CDO 2025* | 🗣️ Active Participant | Back-End Development |
-| **Mar 2025** | *DevFest 2025* | 🤝 Active Participant  | Build AI Chatbot & Build a PC|
-| **Mar 2025** | *Copilot CDO: AI-Powered Coding* | 🗣️ Technical Lead | LLMs in IT Workflows |
+<br/>
 
-</h4>
-<!-- Event Gallery -->
-<br>
-<h2></h2>
-<h3>📸 Event Gallery</h3>
-<br>
-<p align="center">
-  <img src="devfest-2025.jpg" width="32%" alt="Event 1" />
-  <img src="women-in-tech-2025.jpg" width="32%" alt="Event 2" />
-  <img src="sinatech-2024.jpg" width="32%" alt="Event 3" />
-  <img src="django-girls-cdo-2025.jpg" width="32%" alt="Event 4" />
-</p>
-<br>
+<table>
+  <tr>
+    <td width="55%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iren-salazar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=ffd803&fire=ffd803&currStreakLabel=ffd803" width="100%" />
+    </td>
+    <td width="45%" align="center">
+      <img src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif" width="90%" style="border-radius:12px" />
+    </td>
+  </tr>
+</table>
 
-<!-- Contribution Graph 
-<h2></h2>
-<br clear="both">
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=iren-salazar&theme=tokyo-night&hide_border=true&bg_color=242629&area=true" />
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
 </div>
--->
+
+---
+
+## 🎤 Workshops & Community Events
+
+> *Driving tech literacy forward — one event at a time.*
+
+| 📅 Date | 🎪 Event | 🎭 Role | 🔍 Focus |
+|:--------|:---------|:--------|:---------|
+| **Jul 2025** | University SINATECH Pitching | 🛠️ Team Lead | Frontend Dev & UX Design |
+| **Aug 2025** | Django Girls CDO 2025 | 🗣️ Active Participant | Back-End Development |
+| **Mar 2025** | DevFest 2025 | 🤝 Participant | AI Chatbot & PC Building |
+| **Mar 2025** | Copilot CDO: AI-Powered Coding | 💡 Technical Lead | LLMs in IT Workflows |
+
+---
+
+## 📸 Event Gallery
+
+<p align="center">
+  <img src="devfest-2025.jpg" width="23%" style="border-radius:8px;margin:4px" alt="DevFest 2025" />
+  <img src="women-in-tech-2025.jpg" width="23%" style="border-radius:8px;margin:4px" alt="Women in Tech 2025" />
+  <img src="sinatech-2024.jpg" width="23%" style="border-radius:8px;margin:4px" alt="SINATECH 2024" />
+  <img src="django-girls-cdo-2025.jpg" width="23%" style="border-radius:8px;margin:4px" alt="Django Girls CDO 2025" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=iren-salazar&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true&color=ffd803&line=ffd803&point=ffffff" />
+</div>
+
+---
+
+<div align="center">
+
+### ☕ Support My Work
+
+<a href="https://www.buymeacoffee.com/irenie" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="42" alt="Buy Me A Coffee" />
+</a>&nbsp;&nbsp;
+<a href="https://ko-fi.com/irenie" target="_blank">
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="42" alt="Ko-Fi" />
+</a>
+
+<br/><br/>
+
+*"Building cool things, one commit at a time."* 
+
+</div>
