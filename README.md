@@ -154,6 +154,6 @@ contact:    salazariren043@gmail.com
 
 <br/><br/>
 
-*"Building cool things, one commit at a time."* ✦
+*"Building cool things, one commit at a time."* 
 
 </div>
